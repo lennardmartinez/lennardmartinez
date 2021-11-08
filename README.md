@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lennardmartinez
-- 👀 I’m interested in ... antyhing business, IT, cloud, AI, and deployment concepts
+- 👀 I’m interested in ... anything business, IT, cloud, AI, and deployment concepts
 - 🌱 I’m currently learning python, HTML, javascript, Azure, and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... lennardmartinez@gmail.com
